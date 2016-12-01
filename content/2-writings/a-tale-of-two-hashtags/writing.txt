@@ -1,0 +1,92 @@
+Title: A Tale Of Two #Hashtags
+
+----
+
+Date: 2016-09-17
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Text: 
+
+##*Social media lessons from McDonald’s and Starbucks*
+
+The logic seemed sound, make a hashtag that people could use to share their positive McDonald’s experiences, pay to push it out to a huge audience, and sit back and watch as great stories poured in. Or not.
+
+It all started with a simple promoted tweet in early January 2012, “When u make something w/ pride, people can taste it,” McD potato supplier #McDstories.”
+
+Unfortunately, things didn’t work out as planned. Almost immediately, people hijacked the hashtag with strong opinions on the world’s largest fast-food chain.
+
+Here’s just a few sample tweets, courtesy of (link: http://www.forbes.com/sites/kashmirhill/2012/01/24/mcdstories-when-a-hashtag-becomes-a-bashtag/#1a1c606193f4 text: Forbes):
+
+> – “Dude, I used to work at McDonald’s. The #McDStories I could tell would raise your hair.”
+
+> – “One time I walked into McDonalds and I could smell Type 2 diabetes floating in the air and I threw up. #McDStories”
+
+> – “These #McDStories never get old, kinda like a box of McDonald’s 10 piece Chicken McNuggets left in the sun for a week”
+
+> – “The promoted TT of #McDStories isn’t going the direction I think @mcdonalds wanted it to go. Lots of weed stories and heart attack jokes.”
+
+> – “Ate a McFish and vomited 1 hour later….The last time I got McDonalds was seriously 18 years ago in college….. #McDstories”
+
+> – “#McDStories I lost 50lbs in 6 months after I quit working and eating at McDonald’s”
+
+McDonald’s had to scramble, and within a couple hours they put the kibosh on the campaign and moved into damage control. McDonald’s Director of Social Media, Rick Wion, even went as far as to (link: http://www.forbes.com/sites/kashmirhill/2012/01/24/mcdstories-when-a-hashtag-becomes-a-bashtag/#7ab3c7fa193f text: comment on online news articles) covering the story:
+
+This article unfortunately left out some important facts and perspective on the situation.
+
+> The #McDStories tactics was part of a larger campaign to share our stories about the farmers who grow McDonald’s food. As soon as we saw that #McDStories was not going as planned, we made the decision to pull the hashtag and replace it with the more positive and successful #MeettheFarmers. Within that two hour window from launch to pull down of #McDStories, the number of tweets about it jumped to a peak of about 1600 but then fell off to only a few dozen.
+
+> It is also important to keep those numbers in perspective. There were 72,788 mentions of McDonald’s overall that day and #McDStories was a tiny percentage of that–roughly 2%. The tweets that were used for the video an article are very negative, but given that McDonald’s is mentioned on Twitter more than 250,000 times each week, it is very easy to cherry pick negative (or positive) tweets that are not representative of the overall picture.
+
+> Bottom line–the negative chatter wasn’t as much as today’s headlines have lead people to believe. This happened almost a week ago and the hashtag is only living on because many media outlets are using the chance to push a provocative and tweetable headline.
+
+> Part of being in social media is knowing that you can’t control the message 100 percent of the time.
+As Twitter continues to evolve its platform and engagement opportunities, we’re learning from our experiences.
+
+> Rick Wion, Director of Social Media, McDonald’s USA
+
+###What went wrong?
+
+Probably most telling in Wion’s statement is the next to last line: “Part of being in social media is knowing that you can’t control the message 100 percent of the time.” The problem for McDonald’s was that, when it comes to social media, they assumed they could control the message at all.
+
+Consider the structure of the campaign’s first tweet: a quote from a unnamed farmer that sounds more like an ad than a real person, punctuated with an invented hashtag. Who is this farmer? Is s/he even real? Is there a context to the quote? How do we even know s/he was talking about McDonald’s except for trusting McDonald’s word on the matter? Moreover, why should we even care about what this farmer thinks? There was no human story to spark the remotest emotional connection.
+
+On almost every level, the campaign felt manufactured. And that’s the heart of the problem, not that it wasmanufactured—because, let’s face it, every campaign is—but that it actually felt that way. It was a brand telling folks how to think about them on a platform where consumers have the control and the opportunity in real time to tell you what they really think.
+
+And despite Wion’s comments on the number of negative tweets, the reality is that these 2% of tweets were hundreds of times louder than any positive tweets about the brand. That’s the power of amplification in social media—and years later, (link: https://twitter.com/search?q=%23McDstories&src=tyah text: the damage is still happening).
+
+###What’s your #sipface?
+
+In stark contrast to the #McDstories debacle is the Starbucks #sipface campaign. Earlier this year, Starbucks ran a contest associated with this hashtag, with a prize of a $100 Starbucks card to the winner. The rules were simple, show us your best sip face, use the #sipface hashtag, and your peers would vote on the best one to determine the winner. The contest resulted in thousands of entries, (link: https://www.youtube.com/embed/0W1O-BhOCh8 text: including the hilarious video by WheezyWaiter).
+
+Today, though the contest is over, the (link: https://twitter.com/search?q=%23sipface&src=typd text: #sipface) hashtag is still going strong.
+
+###What went right?
+
+Last week, I sat in on Starbucks’ VP of Global Digital Marketing, Alex Wheeler’s talk, “The Networked Brand,” at the Seattle Interactive Conference. One thing that Wheeler said stood out to me: “We are at our best when we amplify existing behavior.”
+
+The magic of the #sipface campaign was that though it was a manufactured campaign, it didn’t feel that way. Starbucks didn’t create the #sipface hashtag. People were already using it. Instead, Starbucks took a smart approach by simply tapping into an existing conversation to provide a forum to amplify that conversation, and in the case of the contest, reward them for it.
+
+This strategy was a result of Starbucks’ overall approach to customer relations extended to the social space. As articulated by Wheeler: “Our brand is all about co-creation.” This is a strategy that goes back to Starbucks’ first significant foray into social media, (link: http://mystarbucksidea.force.com/ text: My Starbucks Idea), which provides a way for customers to help generate new business initiatives for the company.
+
+###The lesson learned
+
+This tale of two tweets highlights an important lesson in the social space: the best campaigns are those that reflect the reality of the consumer experience with your brand and reflect the core values of your brand.
+
+The Starbucks #sipface campaign didn’t feel manufactured because it was a natural extension of their core values and the experiences their customers have come to expect from the brand online.
+
+In the case of McDonald’s, here’s a simple question: How many times have you heard someone share his or her awesome McDonald’s story in real life? For me, the answer is never. (Though, I’ve heard my fair share of negative ones.) The McDonald’s campaign felt manufactured because it didn’t reflect the way in which people actually interact with the brand.
+
+That’s not to say there aren’t real world experiences that McDonald’s could tap into. For instance, people are fanatical about the Monopoly game. I know friends who never eat fast food but who make a couple stops at McD’s when the contest is going. That’s a conversation that McDonald’s could probably build successfully around, (link: https://twitter.com/search?q=McDonald%27s%20Monopoly%20hunger%20games&src=typd&f=realtime text: like the current Hunger Games one).
+
+This approach starts with the customer interactions and perceptions of your brand as your focus and then extends to your messaging, rather than messaging as your focus and then extending that to your customer to drive desired interactions and perceptions.
+
+The customer-first approach in the social space often results in brand interactions that feel natural and unforced, while still taking into the considerations and desired outcomes of the brand. And that is always a winning combination.

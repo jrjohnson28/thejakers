@@ -1,0 +1,36 @@
+Title: Build a G.I. Joe
+
+----
+
+Year: 
+
+----
+
+Text: 
+
+###Our mission: Develop a fully-responsive, cross-platform web app that allows you to build your own G.I. Joe…in a week, over the holidays. Mission accomplished. Buildagijoe.com.
+
+(image: g.i.joe-builder-screen-shot.png)
+
+We were all ready for the 4th of July weekend when we got the call from Socialtyze. They were working with Paramount Pictures and Hasbro to build a web app that would allow users to create their own G.I. Joe character as part of the promotional efforts for the Blu-ray release of G.I. Joe: Retaliation. And they needed a development partner.
+
+The timeline was tight. We needed to build it in a week, over the 4th of July holidays, and it had to be fully-responsive and work on every major platform without bugs. We were confident that we could get the job done. After all, this wasn’t an opportunity we wanted to pass up. It’s not everyday you get to live out a childhood dream to make your own G.I. Joe character.
+
+(image: choose-your-gender.png)
+
+(image: g.i.joe-card-shot.png)
+
+The BAJI team put in a heroic effort, fueled by plenty of energy drinks, coffee, pizza, beer, and mexican food. We kicked off the project with an initial 42-hour development session, took a little rest to enjoy the 4th of July holiday with friends and family, and then were back putting in long days and nights to deliver.
+
+The project was a success, with the app launching on schedule and the social buzz building.
+
+###My project role
+Project direction and client services
+
+###The team
+Art Direction and UI/UX design: Socialtyze
+Development: Perry Azevedo, Jake Chapman, and Brant Watrous
+
+----
+
+Tags: 

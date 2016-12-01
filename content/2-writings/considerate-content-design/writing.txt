@@ -1,0 +1,92 @@
+Title: Want Happy Users? Start With Considerate Content Design
+
+----
+
+Date: 2016-09-17
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Text: 
+
+##*Lessons on thinking like your customer from a conversation with my 4-year old*
+
+My sons had soccer camp a couple weeks ago, and I spent part of the weekend before shopping for soccer gear. For Liam, my 8-year old going into his 3rd camp, this was a rote routine.
+
+(image: liam-soccer-ball.jpg)
+
+But for Dylan, my 4-year old going into his first camp, everything was new and exciting.
+
+(image: dylan-soccer.jpg)
+
+All week long prior to camp, he was begging to go to soccer, and each day we had to say, “Soccer camp doesn’t start today, it starts on Monday.”
+
+###How many sleeps will it take?
+
+Dylan, who still struggles with the concept of time and days, finds it near impossible to grasp what the heck Monday means for him.
+
+Any parent or adult who has to communicate with kids on a semi-regular basis will understand the amount of creativity and energy it takes to explain things in terms that the child will understand. With Dylan, it took a while for us to find language that worked when it came to the passage of time. What we landed on was surprising, but also delightful. We talk in terms of “sleeps.”
+
+Dylan understands the experience of going to bed and waking up. Intuitively, I think he knows this means a new day, but for whatever reason, talking about the passage of time in terms of the number of sleeps it takes is easier for him to grasp than to speak in terms of how many days will pass.
+
+So, for instance, when Dylan asked us on Saturday when it would be Monday (i.e., Soccer Camp), we replied, “In two sleeps.” And voila! He got it and stopped asking. Using any other language would have caused confusion and more questions — possibly even a tantrum!
+
+Come Monday morning, Dylan wandered out to the kitchen at 6:45 a.m. suited up in his new cleats, shin guards, and soccer socks. He was ready to rock.
+
+###Communicating > language
+
+Dylan isn’t stupid. He’s actually quite bright (though I’m biased). As a father, it would be awful of me to “punish” Dylan for not linguistically processing the world the way I do, to refuse to meet him where he’s at, to demand he use my terms or nothing at all, and, in my inconsideration, to frustrate him to no end.
+
+Instinctively, I think we all understand this when it comes to working with kids. We’re able to suspend our linguistic conventions. We do this because we deem effective communication as more important than precise language.
+We also know that our modified language will serve a purpose for a time and that by enough exposure to how language “really” works that they’ll come around. I have no doubt that within a year or so, the term “sleeps” will be a quaint memory but no longer needed for Dylan.
+
+Yet, interestingly, when it comes to communicating with customers, clients, and consumers, we take the exact opposite approach.
+
+###Don’t flip out
+
+I once went to a design and content strategy MeetUp hosted by Facebook’s Seattle office. One of the panel members was James Callan, who is the digital content strategist at Sur La Table. James shared that when he first started at Sur La Table, there was a real content problem with the store’s site.
+
+For instance, people typed in the word “spatula” when looking for this item:
+
+(image: flipper-green.jpg)
+
+But what they got was this:
+
+(image: red-spatula.jpg)
+
+Why? Because (from what I understand) in professional kitchens, what most of us call a spatula is really a “flipper.” And that is what Sur La Table called it on their website too.
+
+Most people would associate the word “flipper” with a cute dolphin, not a spatula.
+
+(image: flipper-show.jpg)
+
+But hey, even Weird Al gets it wrong.
+
+(youtube: http://youtu.be/2XbCWmY0eqY)
+
+Sur La Table had used industry language rather than consumer language, and it was creating frustrations for the customers that couldn’t find what they were looking for.
+
+It’s not that Sur La Table was purposely trying to frustrate customers (who is?!). It’s just that they neglected to design their content to meet the needs of their audience. Thankfully, James was able to help them with their taxonomies so that they made sense for the average Jane and Joe.
+
+###Be Considerate: Think content (and user) first
+
+All of this serves as a valuable User Experience lesson, because after all, UX is about how lifeactually works, not how we’d like it to work. The second we forget this is the second we make assumptions about what should be instead of doing the hard work of designing to what is. The former leads to frustrating experiences, the later to delightful ones. Translation: happy customers, clients, and consumers.
+
+Often, when we’re asked to help redesign a website, what the client is really asking is to make it look more modern or to squeeze it into a responsive layout. Unfortunately, this will usually not fix the problems because the real problem is a content one, not an aesthetics or device capability issue.
+
+These content problems arise because it becomes very easy to fall into a pattern of thinking that the way you talk as an organization, and the way in which you organize your content, is the way that your customers, clients, and consumers would. Quite often, however, this is not the case. Rather, the end users of a website come with a very different mindset than the internal mindset of the organization.
+
+Building a site that considers the end user’s point of view requires doing the hard work of listening and adapting to their mindset rather than our own. In the case of my son, Dylan, this is easy. I talk with him everyday. With our end users, it takes a conscious and considered effort — a purposefulness that must be cultivated and that does not come naturally.
+
+Time and time again, we advise clients to start with a web redesign that focuses on content first and then moves into visual design and responsive web design.
+
+By doing so, we take into consideration information architecture, navigational flow, taxonomy, search engine optimization, governance, workflow, and more. All of this is rooted in a deep understanding of the user and his or her context.
+
+Only then do we focus on the important work of visual design and responsive development. By doing this, we show our deep respect for the folks who will actually use the website, and we don’t punish them for not thinking and talking the way we do. We recognize the validity of where they are, and we meet them there to serve them well. It’s hard work, but it’s always worthy work.

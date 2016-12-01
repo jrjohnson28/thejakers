@@ -1,0 +1,69 @@
+Title: Belief (formerly BAJI)
+
+----
+
+Year: 
+
+----
+
+Tags: 
+
+----
+
+Text: 
+
+###In the summer of 2012, I started (link: http://beliefagency.com/ text: BAJI (now Belief)), an interactive branding and digital agency, with three partners. In our first year, we did close to $1 million in billings, won an ADDY Award, and were nominated for Best New Agency by .net Magazine.
+
+(image: baji-team.jpg)
+
+In August of 2012, myself and three other partners left our jobs working on creative teams for large non-profits to pursue a dream to start a branding and creative agency. Together, we founded BAJI.
+
+(image: baji-home-screen.png)
+
+The transition was quick, and we had to scramble to develop our agency brand and website within a couple weeks so we could hit the ground running.
+
+###Building the BAJI messaging
+The first step was to develop our story. I came up with the tagline: We Believe, which I have since modified to **We Make Belief**.
+ 
+This ethos spoke to our deeply held conviction that great brands start with their why—the story behind everything they do—and build from there.
+
+I then worked closely with the partners to architect our website, doing a large portion of our UX/UI design, and writing a full copy deck, including the development of our core beliefs.
+
+(image: we-believe.png)
+
+The result was a fully-responsive website that employed parallax effects. A site for which we eventually won a silver ADDY.
+
+###The BAJI Content Strategy
+
+But a good website wasn’t enough. I also developed our content and social media strategies. I tasked each partner with writing quality content regularly on our blog, and we also started a Daily Inspiration post that shared all the great articles, design, and trends that we found on our daily travels through the web.
+
+The results were spectacular. In the last eleven months, our content strategy efforts:
+
+- Drove over 30,400 unique visitors to our site
+- Picked up 567 followers on Twitter
+- Garnered 348 likes on Facebook
+
+On the SEO side, I focused on ranking for three key search terms on Google: “Seattle Creative Agency,” “Seattle Branding Agency,” and “Seattle Interactive Agency.” As of today, we are on the first page of Google for each search term, among many great agencies that are bigger and more experienced.
+
+###First-Year Results
+
+Our passion was evident in our copy and through our content and social strategies, and we gained a ton of momentum in our first year towards recognition in the creative community. This eventually resulted in being picked as one of ten agencies from around the world to be nominated for Best New Agency by .net Magazine.
+
+(image: awardsnewagency.jpg)
+
+We were also featured on HOW Magazine as a (link: http://www.howdesign.com/design-creativity/top-10-sites-for-designers/top-10-websites-for-designers-april-2013/ text: top website for designers), on Creative Bloq as one of (link: http://www.creativebloq.com/agencies/10-new-design-agencies-watch-2013-3132254 text: 10 new design agencies to watch in 2013), and on (link: http://www.designworklife.com/2012/12/20/baji-elements-of-education/ text: Design Work Life) for our work on Elements of Education.
+
+In the end, starting BAJI was an exciting and scary experiment. We had no major client to launch out with. And we’d never run a business with partners, let alone an agency.
+
+Over the course of our first year, as amazing things happened, our client roster grew to include clients like a major Northwest-based software company (fill in the blank), the Seattle Seahawks, Paramount Pictures, Caffe Vita, and more.
+
+###My project role
+
+Creative direction, content strategy, copywriting, content architecture, and UX/UI design
+
+###Project Team
+
+Creative direction: Jesse Bryan
+Art direction: Jon Ashcroft
+UX/UI: Mike Anderson
+Development: Justin Tucker

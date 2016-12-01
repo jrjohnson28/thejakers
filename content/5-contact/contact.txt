@@ -1,0 +1,17 @@
+Title: Contact
+
+----
+
+Text: 
+
+##Let's get together right away. We'll be having twice the fun.
+
+It never hurts to chat, right? Email me at jake [at] thejakers.com. And let's talk about how I might help you.
+
+<div class="video-container"><iframe width="853" height="480" src="https://www.youtube.com/embed/F1IyrZZQd0g?rel=0" frameborder="0" allowfullscreen></iframe></div>
+
+##Want to get to know me better first? That's cool too.
+
+Get to know me in 140 characters on (link: https://twitter.com/thejakers text: Twitter).
+Let's be professional on (link: https://www.linkedin.com/in/thejakers text: LinkedIn).
+Hear what others (link: http://localhost/kirbytest/testimonials text: have to say) about working with me.

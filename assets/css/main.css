@@ -1,0 +1,520 @@
+/*
+
+Kirby Starterkit
+
+Author: Bastian Allgeier / Sascha Lack
+URL:    http://getkirby.com
+Email:  support@getkirby.com
+
+*/
+
+
+/* Source Sans Pro
+-------------------------------------------------- */
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts/sourcesanspro-300.woff) format('woff');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/sourcesanspro-400.woff) format('woff');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts/sourcesanspro-600.woff) format('woff');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 400;
+  src: url(../fonts/sourcesanspro-400-italic.woff) format('woff');
+}
+
+
+/* Reset
+-------------------------------------------------- */
+*, *:before, *:after {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+article, aside, details, figcaption, figure,
+footer, header, hgroup, main, nav, section, summary, content blogarticle {
+  display: block;
+}
+
+
+/* Pix
+-------------------------------------------------- */
+img {
+  display: block;
+  max-width: 100%;
+}
+
+
+/* Links
+-------------------------------------------------- */
+a {
+  color: #000;
+  text-decoration: none;
+  transition: color .3s, background .3s, border .3s;
+}
+a:hover {
+  color: grey;
+}
+
+
+/* Clearfix
+-------------------------------------------------- */
+.cf:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+/* Site
+-------------------------------------------------- */
+html {
+  height: 101%;
+  font-family: 'Merriweather', serif;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+      
+}
+body {
+  margin: 0 auto;
+  font-size: 1.1em;
+  line-height: 1.5em;
+  padding: 1.5em;
+  max-width: 50em;
+  background: #fff;
+  color: #222;
+}
+
+p {
+    margin-bottom: 1.5em; 
+}
+
+figure {
+    margin-bottom: 1.5em; 
+}
+
+blockquote {
+  border-left:5px solid #ccc;
+  margin:1.5em 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+
+/* Header
+-------------------------------------------------- */
+.header {
+  border-bottom: 2px solid #ddd;
+  margin-bottom: 1.5em;
+}
+.logo {
+  display: block;
+  %%margin-bottom: 1em;
+  font-weight: 500;
+  font-size: 1em;
+    font-family: 'Droid Sans', sans-serif;
+}
+.logo img {
+  width: 2em;
+}
+
+
+/* Navigation
+-------------------------------------------------- */
+.menu a {
+  color: #222;
+    font-family: 'Droid Sans', sans-serif;
+    font-size: 1em;
+}
+.menu a:hover {
+  color: grey;
+  text-decoration: none;
+}
+.menu .active {
+  color: grey;
+}
+.menu li {
+  list-style: none;
+}
+.menu > li {
+  position: center;
+  text-align: left;
+  display: inline-block;
+  font-size: .85em;
+  padding-right: .3em;
+   
+}
+.menu > li > a {
+ font-weight: 500;
+}
+
+
+@media screen and (min-width: 40em) {
+  body {
+    padding: 3em;
+  }
+  .logo {
+    float: left;
+  }
+  .menu {
+    float: right;
+    margin-right: -1em;
+  }
+  .menu > li {
+    float: left;
+    font-size: 1em;
+    max-width: 50em;
+  }
+  .menu > li > a {
+    padding: .35em .3em;
+    border: 0;
+  }
+  .menu > li:hover .submenu {
+    display: block;
+  }
+}
+
+/* Videos
+__________________________________________________ */
+
+.video-container {
+	position:relative;
+	padding-bottom:56.25%;
+	padding-top:30px;
+	height:0;
+	overflow:hidden;
+}
+
+.video-container iframe, .video-container object, .video-container embed {
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+    padding-bottom: 30px;
+}
+
+
+/* Headings
+-------------------------------------------------- */
+h1 {
+  font-size: 2em;
+  line-height: 1.25em;
+  font-weight: 300;
+  margin-bottom: .5em;
+    font-family: 'Droid Sans', sans-serif;
+}
+
+h2.article {
+  font-size: 2em;
+  line-height: 1.25em;
+  font-weight: 300;
+  margin-bottom: .5em;
+  color: inherit;
+   font-family: 'Playfair Display', serif;
+}
+
+
+h2.poetry {
+  font-size: 2em;
+  line-height: 1.25em;
+  font-weight: 300;
+  margin-bottom: .5em;
+  color: inherit;
+   font-family: 'Vollkorn', serif;
+}
+
+h2 {
+  font-size: 2em;
+  line-height: 1.25em;
+  font-weight: 300;
+  margin-bottom: .5em;
+  color: inherit;
+   font-family: 'Droid Sans', sans-serif;
+}
+h3 {
+  font-size: 1.4em;
+  line-height: 1.5em;
+  font-weight: 300;
+  margin-bottom: .5em;
+    font-family: 'Droid Sans', sans-serif;
+}
+
+h3.article {
+  font-size: 1.4em;
+  line-height: 1.5em;
+  font-weight: 300;
+  margin-bottom: .5em;
+    font-family: 'Playfair Display', serif;
+}
+
+h3.poetry {
+  font-size: 2em;
+  line-height: 1.25em;
+  font-weight: 400;
+  margin-bottom: .5em;
+  color: inherit;
+   font-family: 'Vollkorn', serif;
+        -webkit-font-smoothing: antialiased;
+}
+
+h4 {
+  font-size: 1.125em;
+  font-weight: 300;
+  line-height: 1.5em;
+  margin-bottom: .5em;
+  color: black;
+    font-family: 'Droid Sans', sans-serif;
+}
+h1 a, h2 a, h3 a, h4 a {
+  color: inherit;
+  border: 0 !important;
+}
+
+
+
+/* Main
+-------------------------------------------------- */
+.main {
+  padding-bottom: 1.5em;
+  border-bottom: 2px solid #ddd;
+}
+.main hr {
+  margin: 3em 0;
+  height: 2px;
+  background: #ddd;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+.main p,
+.main figure,
+.main ul,
+.main ol {
+  margin-bottom: 1.5em;
+
+}
+.main a {
+        box-shadow: inset 0 -4px 0 #ff0;
+    color: inherit;
+    transition: box-shadow 0ss.5s; 
+     transition-duration: 0.5s;
+    transition-property: color, background-color;
+        cubic-bezier(.33,.66,.66,1);
+  %%border-bottom: 2px solid #ddd;%%
+}
+.main a:hover {
+    background-color: #ff0;
+  %%border-color: #222;%%
+}
+
+input {
+    width: 100%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 20px;
+    margin-bottom: 1.5em;
+}
+
+/* Text blocks */
+.text ul,
+.text ol {
+  margin-left: 1em;
+}
+
+
+/* Article
+-------------------------------------------------- */
+.article h3 {
+     font-size: 1.6em;
+  line-height: 1.5em;
+  font-weight: 300;
+  margin-bottom: .5em;
+    font-family: 'Playfair Display', serif;
+}
+
+.article h2 {
+     font-size: 1.4em;
+  line-height: 1.1em;
+  font-weight: 300;
+  margin-bottom: 2em;
+    font-family: 'Merriweather', serif;
+}
+
+.article hr {
+  margin: 3em 0;
+  height: 2px;
+  background: #ddd;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+.article p,
+.article figure,
+.article ul,
+.article ol {
+  margin-bottom: 1.5em;
+}
+.article a {
+        box-shadow: inset 0 -4px 0 #ff0;
+    color: inherit;
+    transition: box-shadow 0ss.5s; 
+     transition-duration: 0.5s;
+    transition-property: color, background-color;
+        cubic-bezier(.33,.66,.66,1);
+  %%border-bottom: 2px solid #ddd;%%
+}
+.article a:hover {
+    background-color: #ff0;
+  %%border-color: #222;%%
+}
+
+/* Text blocks */
+.text ul,
+.text ol {
+  margin-left: 1em;
+}
+
+/* Poetry
+-------------------------------------------------- */
+.poetry h3 {
+     font-size: 1.4em;
+  line-height: 1.5em;
+  font-weight: 100;
+  margin-bottom: .5em;
+    font-family: 'Vollkorn', serif;
+}
+.poetry hr {
+  margin: 3em 0;
+  height: 2px;
+  background: #ddd;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+.poetry p,
+.poetry figure,
+.poetry ul,
+.poetry ol {
+  margin-bottom: 1.5em;
+      font-size: 1.1em;
+  line-height: 1.5em;
+    font-weight: 400;
+    font-style: normal;
+  margin-bottom: 1.5em;
+    font-family: 'Vollkorn', serif;
+        -webkit-font-smoothing: antialiased;
+}
+.poetry a {
+        box-shadow: inset 0 -4px 0 #ff0;
+    color: inherit;
+    transition: box-shadow 0ss.5s; 
+     transition-duration: 0.5s;
+    transition-property: color, background-color;
+        cubic-bezier(.33,.66,.66,1);
+  %%border-bottom: 2px solid #ddd;%%
+}
+.poetry a:hover {
+    background-color: #ff0;
+  %%border-color: #222;%%
+}
+
+/* Text blocks */
+.text ul,
+.text ol {
+  margin-left: 1em;
+}
+
+
+/* Project meta
+-------------------------------------------------- */
+.meta {
+  margin-bottom: 1.5em;
+}
+.meta li {
+  float: left;
+  list-style: none;
+  margin-right: 2em;
+  color: grey;
+}
+.meta li b {
+  font-weight: 400;
+  color: #000;
+  padding-right: .25em;
+}
+
+
+/* Project teaser
+-------------------------------------------------- */
+.teaser {
+  list-style: none;
+}
+.teaser li {
+  margin-bottom: 1.5em;
+  list-style: none;
+}
+@media screen and (min-width: 50em) {
+  .teaser li {
+    float: left;
+    width: 30%;
+    margin-left: 5%;
+  }
+  .teaser li:first-child {
+    margin-left: 0;
+  }
+}
+
+
+/* Next/Prev nav
+-------------------------------------------------- */
+.nextprev {
+  padding: 1em 0;
+}
+.nextprev a {
+  border: 0;
+}
+.nextprev .prev {
+  float: left;
+}
+.nextprev .next {
+  float: right;
+}
+
+
+/* Footer
+-------------------------------------------------- */
+.footer {
+  padding: 1em 0 6em;
+  font-size: .8em;
+}
+.copyright {
+  float: left;
+}
+.colophon {
+  float: right;
+}
+.colophon a b {
+  color: grey;
+  padding-left: .25em;
+}
